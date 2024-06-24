@@ -1,0 +1,19 @@
+.main-section {
+    background-position: center;
+    height: 290px;
+    display: flex;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    color:aliceblue;
+    background-image: url('../img/main-imagen.jpeg');
+    text-align: center;
+}
+
+.card {
+    height: 100px;
+}
+
+.card img{
+    height: 250px;
+}
